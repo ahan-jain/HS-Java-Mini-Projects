@@ -1,5 +1,4 @@
 # HS-Java-Mini-Projects
-Projects that I made in high school because I found them quite interesting.
 
 Banking_System: A banking system that stores the name, deposits and withdrawals of a user who just signed up. In case they want to access their previous transaction, they can see a .txt file that is automatically created with their name as the name of the .txt file, which keeps a log of all their transactions. they can check their deposit at any time and exit once they're done.
 
